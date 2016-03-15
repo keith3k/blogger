@@ -26,6 +26,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Added by Keith on 2016-03-14
 gem "paperclip"
 
+# Added by Keith on 2016-03-15
+gem "sorcery"
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
